@@ -36,7 +36,7 @@ li{
 span{
     font-weight: 900;
 }
-main section{
+.sessaopalavras{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,4 +65,9 @@ section p{
     position: absolute;
     left: 30vw;
     top: 50vh;
+}
+.sessaoimagem{
+    border: solid;
+    width: 100%;
+    height: 800px;
 }
