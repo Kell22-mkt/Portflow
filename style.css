@@ -69,5 +69,21 @@ section p{
 .sessaoimagem{
     border: solid;
     width: 100%;
-    height: 800px;
+    height: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
 }
+figure img{
+    height: 45vh;
+    
+}
+figure{
+    display: flex;
+    justify-content: center;
+    height: 48vh;
+    border: solid transparent 4px;
+    
+} 
